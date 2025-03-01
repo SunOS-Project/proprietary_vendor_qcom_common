@@ -50,6 +50,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
+    vendor.qti.hardware.vpp@2.0 \
     c2_manifest_vendor.xml \
     c2_manifest_vendor_audio.xml \
     vendor.qti.hardware.qconfig@1.0-service.xml \
