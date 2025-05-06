@@ -3,6 +3,10 @@
 //
 
 soong_namespace {
+    imports: [
+        "vendor/qcom/opensource/commonsys/display",
+        "vendor/qcom/opensource/commonsys-intf/display",
+    ],
 }
 
 android_app_import {
