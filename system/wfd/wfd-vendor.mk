@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
     WfdService \
     WfdCommon \
-    wfdservice \
     wfdservice64
 
 PRODUCT_PACKAGES += \
